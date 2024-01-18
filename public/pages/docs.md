@@ -104,7 +104,7 @@ Right aligned columns
 
 ## Links
 
-[link with title](https://github.com/emredkyc/react-portfolio "title text!")
+[link with title](https://github.com/emredkyc/react_portfolio "title text!")
 
 
 ## Alerts

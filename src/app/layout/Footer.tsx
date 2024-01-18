@@ -42,17 +42,9 @@ export default function Footer() {
           display="flex"
         >
           <Stack direction="row" spacing={0.5} sx={{ pl: 1 }}>
-            {/* <Stack direction="row" spacing={0.5}> */}
-            {/* <Tooltip title="react-vscode-portoflio (Git)" arrow> */}
-            {/* <Link
-              href="https://github.com/emredkyc/react-portfolio"
-              underline="none"
-              color="white"
-              target="_blank"
-            > */}
             <Box
               component={Link}
-              href="https://github.com/emredkyc/react-portfolio"
+              href="https://github.com/emredkyc/react_portfolio"
               underline="none"
               color="white"
               target="_blank"
@@ -61,7 +53,6 @@ export default function Footer() {
                 px: 0.5,
                 justifyContent: "center",
                 alignItems: "center",
-                // cursor: "pointer",
                 "&:hover": {
                   background: "#1f8ad2",
                 },
@@ -72,10 +63,6 @@ export default function Footer() {
                 main
               </Typography>
             </Box>
-            {/* </Link> */}
-
-            {/* </Tooltip> */}
-            {/* </Stack> */}
             <Stack
               direction="row"
               spacing={0.5}
@@ -133,14 +120,12 @@ export default function Footer() {
         </Grid>
         <Grid
           item
-          // sx={{ backgroundColor: '#3279CB', minWidth: `calc(100% - 35px)` }}
           sx={{ backgroundColor: "#3279CB", minWidth: `calc(100% - 235px)` }}
           display="flex"
           justifyContent="flex-end"
         >
           <Box display="flex" justifyContent="flex-end">
             <Stack
-              // display="flex"
               justifyContent="end"
               direction="row"
               spacing={0.8}
