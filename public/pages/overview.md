@@ -55,12 +55,12 @@ web application is user-friendly, flexible, responsive and cross-platform.
 ## Education
 
 `2013-2017` [Suleyman Demirel University](https://w3.sdu.edu.tr/)
-- BS: Computer Engineering
-- GPA: 3.1/4.0
+- B.Sc.: Computer Engineering
+- GPA  : 3.1/4.0
 
 `2010-2013` [Niğde Ömer Halis Demir University](https://www.ohu.edu.tr/)
-- BS: Physics
-- GPA: 3.5/4.0
+- B.Sc.: Physics
+- GPA  : 3.5/4.0
 
 ## Skills
 
@@ -80,5 +80,6 @@ web application is user-friendly, flexible, responsive and cross-platform.
 - T-SQL
 
 ## Languages
-**English**: Professional working proficiency
 **Turkish**: Native
+**English**: Professional working proficiency
+**German**: Beginner
