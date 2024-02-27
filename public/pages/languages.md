@@ -1,3 +1,4 @@
 # 💬 Languages
-**English**: Professional working proficiency
 **Turkish**: Native
+**English**: Professional working proficiency
+**Germany**: Beginner
