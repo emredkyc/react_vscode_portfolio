@@ -69,3 +69,8 @@ Live: https://price-tracker-dev.vercel.app 🔗
 Personal portfolio website.
 
 Live: https://emredkyc.vercel.app 🔗
+
+## [brainstorm](https://github.com/emredkyc/brainstorm) 🔗
+Learn to create modern websites with sleek parallax effects and bento box layouts. This project covers everything from stylish UI design to mobile-first principles while strengthening your React.js and Tailwind CSS skills.
+
+Live: https://brainstorm-dev.vercel.app 🔗
