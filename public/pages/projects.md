@@ -69,3 +69,13 @@ Live: https://price-tracker-dev.vercel.app 🔗
 Personal portfolio website.
 
 Live: https://emredkyc.vercel.app 🔗
+
+## [brainstorm](https://github.com/emredkyc/brainstorm) 🔗
+Learn to create modern websites with sleek parallax effects and bento box layouts. This project covers everything from stylish UI design to mobile-first principles while strengthening your React.js and Tailwind CSS skills.
+
+Live: https://brainstorm-dev.vercel.app 🔗
+
+## [react_admin_dashboard](https://github.com/emredkyc/react_admin_dashboard) 🔗
+Build an admin dashboard with full authentication, a homepage displaying charts and activities, a comprehensive table for companies with CRUD and search, and a Kanban board with real-time synchronization.
+
+Live: https://react-dashboard-dev.vercel.app 🔗
