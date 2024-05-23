@@ -65,7 +65,7 @@ Dive into web scraping and build a Next.js 14 eCommerce price tracker within one
 
 Live: https://price-tracker-dev.vercel.app 🔗
 
-## [react_portfolio](https://github.com/emredkyc/react_portfolio) 🔗
+## [react_vscode_portfolio](https://github.com/emredkyc/react_vscode_portfolio) 🔗
 Personal portfolio website.
 
 Live: https://portfolio-emredkyc.vercel.app 🔗
