@@ -24,7 +24,7 @@ experiences to Verisoft's customers around the world.
 - System optimization
 - Communication of applications
 
-- _**Technologies used:**_ C#, .NET, MSSQL, Oracle, Angular, React.js
+- _**Technologies used:**_ C#, .NET, .NET Core, MSSQL, Oracle, Angular, React.js
 
 &nbsp;
 
@@ -46,10 +46,13 @@ process.
 
 **Junior Front-End Developer** @ [Karton Medya](https://www.kartonmedya.com/) _(Feb 2016 - Jun 2017)_
 
-Contribute to the front-end development of the e-commerce platform. Ensuring that the 
-web application is user-friendly, flexible, responsive and cross-platform.
+During college, I worked on boosting knowledge in the real industry environment, mostly 
+through a full-time job.
+Daily tasks required front-end development using various ReactJS and ASP.NET 
+technologies and special attention to writing clean and extensible code required for 
+numerous project customizations.
 
-- _**Technologies used:**_ Angular, Javascript, Typescript, Bootstrap, HTML5, CSS(SCSS,LESS)
+- _**Technologies used:**_ React.js, Javascript, Typescript, Bootstrap, HTML5, CSS(SCSS,LESS)
 
 
 ## Education
