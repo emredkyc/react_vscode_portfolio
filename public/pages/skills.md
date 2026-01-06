@@ -13,7 +13,6 @@
   - Next.js
   - Node.js
   - Express.js
-- T-SQL
 
 ## Databases
 - MSSQL
