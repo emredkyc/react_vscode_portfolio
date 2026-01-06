@@ -1,6 +1,6 @@
 # 👨‍💻 Experience
 
-**Full-Stack Software Engineer** @ [Freelance] _(Jan 2024 - Jan 2024)_  | Cologne, Germany
+**Full-Stack Software Engineer** @ [Freelance] _(Jan 2024 - Present)_  | Cologne, Germany
 
 - Development and design of customized system architectures for complex projects in the field of loyalty and payment systems.
 - Design and implementation of robust REST APIs and web services for connecting to backend systems and ensuring seamless customer interactions.
