@@ -1,6 +1,18 @@
 # 👨‍💻 Experience
 
-**Full-Stack Software Developer** @ [Verisoft](https://www.verisoftgroup.com) _(May 2019 - Dec 2023)_
+**Full-Stack Software Engineer** @ [Freelance] _(Jan 2024 - Jan 2024)_  | Köln, Germany
+
+- Development and design of customized system architectures for complex projects in the field of loyalty and payment systems.
+- Design and implementation of robust REST APIs and web services for connecting to backend systems and ensuring seamless customer interactions.
+- Advising customers on the technical feasibility and scalability of architectural solutions.
+- Responsibility for the entire development cycle, from requirements gathering to the successful rollout of customer-specific solutions.
+- Data analysis and artificial intelligence integration.
+
+- _**Technologies used:**_ C#, .NET,.NET Core, MSSQL, Oracle, MongoDB, Angular, React.js, Node.js, Express.js, Next.js
+
+&nbsp;
+
+**Full-Stack Software Engineer** @ [Verisoft Inc.](https://www.verisoftgroup.com) _(May 2019 - Jan 2024)_ | Istanbul, Turkey
 
 Building Fintech businesses at Verisoft as part of a global team. More specifically, 
 developing loyalty, payment system and card products to deliver delightful 
@@ -19,7 +31,7 @@ experiences to Verisoft's customers around the world.
 
 &nbsp;
 
-**Full-Stack Software Developer** @ [OKT-Trailer](https://www.okt-trailer.com) _(Agu 2017 - Sep 2018)_
+**Full-Stack Software Developer** @ [OKT-Trailer Corp.](https://www.okt-trailer.com) _(Agu 2017 - Sep 2018)_ | Aydin, Turkey
 
 Working as a full-stack developer in the team.
 Taking an important role in the ERP transformation project by being responsible for the 
@@ -35,7 +47,7 @@ process.
 
 &nbsp;
 
-**Junior Front-End Developer** @ [Karton Medya](https://www.kartonmedya.com/) _(Feb 2016 - Jun 2017)_
+**Junior Front-End Developer** @ [Karton Media Solutions](https://www.kartonmedya.com/) _(Feb 2016 - Jun 2017)_ | Isparta, Turkey
 
 During college, I worked on boosting knowledge in the real industry environment, mostly 
 through a full-time job.
