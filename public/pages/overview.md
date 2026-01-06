@@ -2,14 +2,26 @@
 
 ## Summary
 
-Senior Software Developer specialising in web application development. 
-Experienced in all phases of the development cycle for dynamic web projects. Fluent in multiple programming languages including C# .NET and JavaScript/TypeScript. Strong background in both financial, audit, loyalty and software development. 
-Reduced the gap between end users and developers, co-designing and building scalable solutions.
+Senior Software Developer professional 7+ year experience in Javascript and .Net technologies with strong technical know-how in both system architecture and design. 
+Dedicated team player software developer with a can-do approach, time management skills and a strong user focus.
 
+Now looking for a new and challenging position which will make best use of my existing skills and experience and also further my personal and professional development.
 
 ## Experience
 
-**Full-Stack Software Developer** @ [Verisoft](https://www.verisoftgroup.com) _(May 2019 - Dec 2023)_
+**Full-Stack Software Engineer** @ [Freelance] _(Jan 2024 - Jan 2024)_  | Cologne, Germany
+
+- Development and design of customized system architectures for complex projects in the field of loyalty and payment systems.
+- Design and implementation of robust REST APIs and web services for connecting to backend systems and ensuring seamless customer interactions.
+- Advising customers on the technical feasibility and scalability of architectural solutions.
+- Responsibility for the entire development cycle, from requirements gathering to the successful rollout of customer-specific solutions.
+- Data analysis and artificial intelligence integration.
+
+- _**Technologies used:**_ C#, .NET,.NET Core, MSSQL, Oracle, MongoDB, Angular, React.js, Node.js, Express.js, Next.js
+
+&nbsp;
+
+**Full-Stack Software Engineer** @ [Verisoft Inc.](https://www.verisoftgroup.com) _(May 2019 - Jan 2024)_ | Istanbul, Turkey
 
 Building Fintech businesses at Verisoft as part of a global team. More specifically, 
 developing loyalty, payment system and card products to deliver delightful 
@@ -24,11 +36,11 @@ experiences to Verisoft's customers around the world.
 - System optimization
 - Communication of applications
 
-- _**Technologies used:**_ C#, .NET, .NET Core, MSSQL, Oracle, Angular, React.js
+- _**Technologies used:**_ C#, .NET,.NET Core, MSSQL, Oracle, Angular, React.js
 
 &nbsp;
 
-**Full-Stack Software Developer** @ [OKT-Trailer](https://www.okt-trailer.com) _(Agu 2017 - Sep 2018)_
+**Full-Stack Software Developer** @ [OKT-Trailer Corp.](https://www.okt-trailer.com) _(Agu 2017 - Sep 2018)_ | Aydin, Turkey
 
 Working as a full-stack developer in the team.
 Taking an important role in the ERP transformation project by being responsible for the 
@@ -44,7 +56,7 @@ process.
 
 &nbsp;
 
-**Junior Front-End Developer** @ [Karton Medya](https://www.kartonmedya.com/) _(Feb 2016 - Jun 2017)_
+**Junior Front-End Developer** @ [Karton Media Solutions](https://www.kartonmedya.com/) _(Feb 2016 - Jun 2017)_ | Isparta, Turkey
 
 During college, I worked on boosting knowledge in the real industry environment, mostly 
 through a full-time job.
@@ -61,7 +73,7 @@ numerous project customizations.
 - B.Sc.: Computer Engineering
 - GPA  : 3.1/4.0
 
-`2010-2013` [Niğde Ömer Halis Demir University](https://www.ohu.edu.tr/)
+`2010-2013` [Nigde Omer Halis Demir University](https://www.ohu.edu.tr/)
 - B.Sc.: Physics
 - GPA  : 3.5/4.0
 
@@ -80,9 +92,11 @@ numerous project customizations.
   - Node.js
   - Express.js
   - Next.js
-- T-SQL
+- MsSQL
+- Oracle
+- MongoDB
 
 ## Languages
 **Turkish**: Native
 **English**: Professional working proficiency
-**German**: Beginner
+**German**: B1 Telc Certificate (I am continuing my B2 language education)
